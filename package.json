@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/InCodeDevs/URLShorterFrontend/issues"
   },
-  "homepage": "https://github.com/InCodeDevs/URLShorterFrontend#readme"
+  "homepage": "https://github.com/InCodeDevs/URLShorterFrontend#readme",
+  "dependencies": {
+    "@incodelang/urlshorter": "^1.0.1",
+    "express": "^4.17.1"
+  }
 }
