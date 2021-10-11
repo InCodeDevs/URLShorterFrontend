@@ -8,7 +8,7 @@ This is the frontend for the package @incodelang/urlshorter
 
 ## Installation
 
-Install my-project with npm
+Install @incodelang/urlshorter-frontend with npm
 
 ```bash
   npm install @incodelang/urlshorter-frontend
